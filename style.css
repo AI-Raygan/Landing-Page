@@ -45,6 +45,7 @@ body {
 
 .maincopy{
     margin-top: 6.25rem;
+    float: left;
 }
 
 
@@ -60,8 +61,12 @@ body {
 #subcopy {
     color: #9698AE;
     font-size: 1.5rem;
+    font-weight: 200;
 }
 
+#dot {
+    color: #ED2727;
+}
 
 
 #red {
@@ -73,7 +78,7 @@ body {
 }
 
 #CTA {
-    margin-top: 4rem;
+    margin-top: 2rem;
     background-color: #ED2727 ; 
     border: 0.094rem solid #ED2727;
     color: white;
@@ -83,3 +88,9 @@ body {
     font-size: 1rem;
 }
 
+#chair {
+    display: inline-block;
+    float: right;
+    margin: auto;
+
+}
