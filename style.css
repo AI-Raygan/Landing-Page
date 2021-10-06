@@ -1,0 +1,35 @@
+html {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+
+#active {
+    color: #00043B;
+
+}
+
+
+.inactive {
+    color: #9698AE;
+}
+
+
+#copy {
+    font-size: 72px;
+    font-weight: 700;
+
+}
+
+#red {
+    color: #ED2727;
+}
+
+#chair {
+    float: right;
+}
+
+#CTA {
+    color: white;
+    background-color: #ED2727;
+    padding: 1;
+}
