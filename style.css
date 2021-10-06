@@ -4,7 +4,9 @@ html {
 
 
 .header {
-    margin-top: 37px;
+    padding-top: 20;
+    margin: auto;
+    
 }
 
 #active {
