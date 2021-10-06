@@ -1,6 +1,6 @@
 body {
     font-family: 'Barlow Semi Condensed', sans-serif;
-    padding: 20px 70px 0px;
+    padding: 1.25rem 4.375rem 0rem;
     
 }
 
@@ -10,49 +10,56 @@ body {
 }
 
 #logo {
-    padding-right: 100px;
+    padding-right: 6.25rem;
 }
 
 
 #active {
     color: #00043B;
-    font-size: 18px;
-    padding-right: 40px;
+    font-size: 1.125rem;
+    padding-right: 2.5rem;
 
 }
 
 .inactive {
     color: #9698AE;
-    padding-right:20px;
-    font-size: 18px;
+    padding-right:1.25rem;
+    font-size: 1.125rem;
 
 }
 
 
 
 #sign{
-    margin-left: 500px;
+    float: right;
     background-color: white; 
-    border: 1.5px solid #ED2727;
+    border: 0.094rem solid #ED2727;
     color: #ED2727;
-    padding: 10px 28px;
+    padding: 0.625rem 1.75rem;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 1rem;
       
 }
 
 .maincopy{
-    margin-top: 100px;
+    margin-top: 6.25rem;
 }
 
 
 
 #copy {
-    font-size: 72px;
     font-weight: 700;
+    font-size: 4.5rem;
+    color: #00043B;
+    margin-bottom: 1rem;
 
+}
+
+#subcopy {
+    color: #9698AE;
+    font-size: 1.5rem;
 }
 
 
@@ -66,13 +73,13 @@ body {
 }
 
 #CTA {
-    margin-top: 100px;
+    margin-top: 4rem;
     background-color: #ED2727 ; 
-    border: 1.5px solid #ED2727;
+    border: 0.094rem solid #ED2727;
     color: white;
-    padding: 15px 56px;
+    padding: 0.938rem 3.5rem;
     text-align: center;
     display: inline-block;
-    font-size: 16px;
+    font-size: 1rem;
 }
 
