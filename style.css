@@ -1,13 +1,18 @@
-html {
+body {
     font-family: 'Barlow Semi Condensed', sans-serif;
+    padding: 20px 70px 0px;
+    
 }
 
-
 .header {
-    padding-top: 20;
     margin: auto;
     
 }
+
+#logo {
+    padding-right: 100px;
+}
+
 
 #active {
     color: #00043B;
@@ -16,24 +21,21 @@ html {
 
 }
 
-
 .inactive {
     color: #9698AE;
-    padding-right: 40px;
+    padding-right:20px;
     font-size: 18px;
 
 }
 
-#logo {
-    padding-right: 200px;
-}
+
 
 #sign{
     margin-left: 500px;
     background-color: white; 
     border: 1.5px solid #ED2727;
     color: #ED2727;
-    padding: 15px 32px;
+    padding: 10px 28px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -41,6 +43,15 @@ html {
       
 }
 
+.maincopy{
+    margin-top: 100px;
+}
+
+
+.maincoy .span {
+    font-size: 100px;
+    background-color: violet;
+}
 #copy {
     font-size: 72px;
     font-weight: 700;
@@ -58,8 +69,13 @@ html {
 }
 
 #CTA {
+    margin-top: 100px;
+    background-color: #ED2727 ; 
+    border: 1.5px solid #ED2727;
     color: white;
-    background-color: #ED2727;
-    padding: 1;
+    padding: 15px 56px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
 }
 
