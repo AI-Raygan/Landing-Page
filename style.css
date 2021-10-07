@@ -44,7 +44,7 @@ body {
 }
 
 .maincopy{
-    margin-top: 6rem;
+    margin-top: 5rem;
     float: left;
 }
 
@@ -74,9 +74,6 @@ body {
     color: #ED2727;
 }
 
-#chair {
-    float: right;
-}
 
 #CTA {
     margin-top: 2rem;
@@ -90,17 +87,22 @@ body {
 }
 
 #chairs{
-
     float: right;
-    margin-top: 3rem;
+    margin-top: 2rem;
     margin-left: 10rem;
     width: 40rem;
 
 }
 
 #bottom{
-    /* width: 100rem; */
     display: inline-flex;
     margin-top: 100px;
-    padding-right: 20rem;
+    
+}
+
+
+#bottom img {
+    width: 100%;
+    display: inline-block;
+    margin-right: 6rem;
 }
