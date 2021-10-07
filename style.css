@@ -17,13 +17,13 @@ body {
 #active {
     color: #00043B;
     font-size: 1.125rem;
-    padding-right: 2.5rem;
+    padding-right: 3rem;
 
 }
 
 .inactive {
     color: #9698AE;
-    padding-right:1.25rem;
+    padding-right: 3rem;
     font-size: 1.125rem;
 
 }
@@ -44,7 +44,7 @@ body {
 }
 
 .maincopy{
-    margin-top: 6.25rem;
+    margin-top: 6rem;
     float: left;
 }
 
@@ -55,6 +55,7 @@ body {
     font-size: 4.5rem;
     color: #00043B;
     margin-bottom: 1rem;
+    letter-spacing: 1px;
 
 }
 
@@ -88,9 +89,18 @@ body {
     font-size: 1rem;
 }
 
-#chair {
-    display: inline-block;
-    float: right;
-    margin: auto;
+#chairs{
 
+    float: right;
+    margin-top: 3rem;
+    margin-left: 10rem;
+    width: 40rem;
+
+}
+
+#bottom{
+    /* width: 100rem; */
+    display: inline-flex;
+    margin-top: 100px;
+    padding-right: 20rem;
 }
